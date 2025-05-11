@@ -2,9 +2,9 @@
 
 This is a simple and responsive **landing page** built using HTML and CSS. It demonstrates a clean layout, modern design elements, and is ideal for showcasing a product, service, or personal brand.
 
-## 🌐 Live Demo
+## 🌐 Demo
 
-[Visit the live site](https://noureen111.github.io/Website-Landing-Page/)
+[Click here to view live demo](https://noureen111.github.io/Website-Landing-Page/)
 
 ## 🛠️ Technologies Used
 
