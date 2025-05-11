@@ -4,7 +4,7 @@ This is a simple and responsive **landing page** built using HTML and CSS. It de
 
 ## 🌐 Live Demo
 
-[View it on GitHub Pages](https://noureen111.github.io/Website-Landing-Page/)
+[Visit live demo](https://noureen111.github.io/Website-Landing-Page/)
 
 ## 🛠️ Technologies Used
 
