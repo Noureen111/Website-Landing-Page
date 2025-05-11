@@ -18,8 +18,6 @@ This is a simple and responsive **landing page** built using HTML and CSS. It de
 - Sectioned structure (header, features, about, contact, etc.)
 - Simple and easy to customize
 
-## 📷 Screenshot
-
 ![Website Landing Page Demo](screenshot.png) <!-- Replace with actual screenshot or remove this line -->
 
 ## 📁 Getting Started
